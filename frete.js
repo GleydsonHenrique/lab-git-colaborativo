@@ -1,1 +1,1 @@
-function calcularFrete(valorpedido) { return valorpedido + 15.00; // Frete padrao inicial }
+function calcularFrete(valorpedido) { return valorpedido + 22.00; // Regiao sul}
