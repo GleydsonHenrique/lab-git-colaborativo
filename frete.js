@@ -1,0 +1,1 @@
+function calcularFrete(valorpedido) { return valorpedido + 15.00; // Frete padrao inicial }
