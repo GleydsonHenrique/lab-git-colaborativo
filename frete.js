@@ -1,1 +1,3 @@
-function calcularFrete(valorpedido) { return valorpedido + 30.00; // regiao norte }
+
+function calcularFrete(valorpedido) { return valorpedido + 25.00; // regiao norte }
+
